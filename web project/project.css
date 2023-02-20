@@ -1,0 +1,65 @@
+.card img{
+    width: 250px;
+    height: 100px;
+    margin: 7%;
+    
+}
+
+.card{
+    background-color:rgba(194, 216, 216, 0.627);
+    display: inline-block;
+    margin: 44px;
+    width: 350px;
+    height: 350px;
+}
+.para a{
+   margin-left: 5%;
+}
+
+
+.carousel-inner{
+   
+    width: 90%;
+    max-height: 600px;
+    margin-left: auto;
+margin-right: auto;
+}
+img{
+    height: 600px;
+    width:500px;
+
+} 
+
+body{
+    background-color: #e3f2fd;
+
+}
+.inner{
+    overflow:  hidden;
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+ .inner:hover img{
+    transform: scale(1.5);
+ }
+
+ .footer img{
+    margin: 10px;
+    padding:5px;
+    width:50px;
+    height:50px;
+ }
+ /*.footer a{
+        margin: 200px;
+        
+ } */
+ .copyright{
+    text-align: center;
+    color: black;
+    font-size: 150%;
+ }
+ .divid{
+    display: inline;
+    margin: 13%;
+    }
