@@ -1,0 +1,39 @@
+img{
+    margin:10px 150px auto;
+width: 80%;
+height:600px;
+
+}
+body{
+    background-color: aliceblue;
+}
+
+
+.keadarcontainer{
+
+        columns:3;
+
+
+}
+.overview{
+    columns: 3;
+}
+.youtube{
+    background-color: rgb(223, 233, 233);
+}
+
+/* .keadarcontainer{
+grid:-1;
+
+} */
+/* .youtube{
+        width: 80%;
+        height: 300px;
+} */
+
+.history{
+    columns:3;
+}
+.monsoon{
+    columns: 3;
+}
