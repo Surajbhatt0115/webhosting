@@ -5,7 +5,31 @@
   
 }
 body{
-    background-color: #e3f2fd;
+    
+    /* background-color: #e3f2fd; */
+    background-image: url(images/conta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
+input {
+    display: block;
+    width: 400px;
+    padding: 0 20px;
+}
+
+
+ .copyright{
+    text-align: center;
+    color: black;
+    font-size: 150%;
+ }
+/* 
+ .row{
+    display: flex;
+ }
+ .divid{
+    flex: 33.33%;
+    padding: 5px;
+ } */
